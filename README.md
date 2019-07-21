@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/RapidType.au3
-	```
+```
+src/RapidType.au3
+```
 
 ## Authors
 
